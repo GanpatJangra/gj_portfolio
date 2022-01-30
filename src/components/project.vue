@@ -10,7 +10,8 @@
  <swiper 
      
         :spaceBetween="10"
-     
+        :pagination="true"
+         :modules="modules"
         :thumbs="{ swiper: thumbsSwiper }"
         class="mx-10 mySwiper2"
     >
@@ -64,10 +65,7 @@
         :spaceBetween="10"
         :slidesPerView="1"
         :freeMode="false"
-           :pagination="{
-           el: '.swiper-pagination',
-                 type: 'bullets',
-        } "
+       
         :watchSlidesProgress="true"
         class="mx-5 mySwiper"
     >
@@ -129,7 +127,7 @@ import { Swiper, SwiperSlide } from "swiper/vue";
 
 // Import Swiper styles
 import "swiper/css";
-
+import "swiper/css/pagination"
 import "swiper/css/free-mode";
 import "swiper/css/navigation";
 import "swiper/css/thumbs";
@@ -137,10 +135,10 @@ import "swiper/css/thumbs";
 // import "./style.css";
 
 // import Swiper core and required modules
-import SwiperCore, { FreeMode, Navigation, Thumbs } from "swiper";
+import SwiperCore, { FreeMode, Navigation, Thumbs,Pagination } from "swiper";
 
 // install Swiper modules
-SwiperCore.use([FreeMode, Navigation, Thumbs]);
+SwiperCore.use([FreeMode, Navigation, Thumbs,Pagination]);
 
 export default {
     components: {
@@ -150,6 +148,7 @@ export default {
     data() {
         return {
             thumbsSwiper: null,
+            
         };
     },
     methods: {
@@ -159,3 +158,16 @@ export default {
     },
 };
 </script>
+
+<style>
+.swiper-pagination-bullet{
+  background: #ed0808;
+  opacity: 1;
+}
+.swiper-pagination-bullet-active{
+  /* color: red; */
+  height: 13px;
+  width: 13px;
+  background: #ed0808;
+}
+</style>
