@@ -59,7 +59,7 @@
 
             <div class="w-full px-4 lg:w-1/2 ">
               <div class="text-center lg:px-10 md:mb-16">
-                <h2 class="mt-8 font-medium text-9xl md:text-10xl xl:text-11xl font-heading">details</h2>
+                <h2 class="mt-8 font-medium text-9xl md:text-10xl xl:text-11xl font-heading">Details</h2>
                <swiper
         @swiper="setThumbsSwiper"
         :spaceBetween="10"
