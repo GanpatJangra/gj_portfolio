@@ -40,7 +40,7 @@
                 <li class="px-10 mb-1"><a class="block py-4 pl-8 text-lg rounded-full text-body hover:shadow-2xl border shadow-black" href="#skills">Skills</a></li>
                 <li class="px-10 mb-1"><a class="block py-4 pl-8 text-lg rounded-full text-body hover:shadow-2xl border shadow-black" href="#contact">Contact</a></li>
                 <li class="px-10 mb-1"><a class="block py-4 pl-8 text-lg rounded-full text-body hover:shadow-2xl border shadow-black" href="#project">Project</a></li>
-              <button @click="hidden=!hidden" class="absolute p-6 right-5">
+              <button @click="hidden=!hidden" class="absolute p-6 right-5 active:border-2 border-yellow-600 rounded-md">
             <div class="absolute top-3">
               <span class="absolute w-px h-6 transform -rotate-45 bg-black"></span>
               <span class="absolute w-px h-6 transform rotate-45 bg-black"></span>
@@ -56,7 +56,7 @@
             
             </div>
           </nav>
-          <button @click="hidden=!hidden" class="absolute p-6 top-5 right-5">
+          <button @click="hidden=!hidden" class="absolute p-6 top-5 right-5 active:border-2 border-yellow-600 rounded-md">
             <div class="absolute top-3">
               <span class="absolute w-px h-6 transform -rotate-45 bg-black"></span>
               <span class="absolute w-px h-6 transform rotate-45 bg-black"></span>

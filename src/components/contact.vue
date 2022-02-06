@@ -13,23 +13,23 @@
               <div class="flex flex-wrap mb-14 xl:mb-20">
                 <div class="flex items-center w-full mb-6 xl:w-1/2">
                   <img class="mr-6 hover:animation-shake-horizontal h-14" src="/src/assets/images/contacts/icon1.svg" alt="">
-                  <a class="text-3xl font-medium" href="#">+91 8708423836</a>
+                  <a class="text-3xl font-medium hover:text-blueGray-500" href="#">+91 8708423836</a>
                 </div>
                 <div class="flex items-center w-full mb-6 xl:w-1/2">
                   <img class="mr-6 hover:animation-pulsate-bck h-14" src="/src/assets/images/mycollection/gmail-icon.svg" alt="">
-                  <a class="text-3xl font-medium" href="#">Naveen87084@gmail.com</a>
+                  <a class="text-3xl font-medium hover:text-blueGray-500" href="#">Naveen87084@gmail.com</a>
                 </div>
  <div class="flex items-center w-full mb-6 xl:w-1/2">
                   <img class="mr-6 duration-700 rounded-full  hover:animate-bounce h-14" src="/src/assets/images/mycollection/github-icon.svg" alt="">
-                  <a class="text-3xl font-medium shadow-blue-400" href="#">Git hub</a>
+                  <a class="text-3xl font-medium hover:text-blueGray-500 shadow-blue-400" href="#">Git hub</a>
                 </div>
  <div class="flex items-center w-full mb-6 xl:w-1/2">
                   <img class="mr-6 animation-5s hover:animate-spin h-14" src="/src/assets/images/mycollection/linkedin-tile.svg" alt="">
-                  <a class="text-3xl font-medium" href="#">Linkdin</a>
+                  <a class="text-3xl font-medium hover:text-blueGray-500" href="#">Linkdin</a>
                 </div>
                 <div class="flex items-center w-full xl:w-1/2">
                   <img class="mr-6 hover:animate-pulse h-14" src="/src/assets/images/mycollection/whatsapp-icon.svg" alt="">
-                  <a class="text-3xl font-medium" href="#">Whatsapp</a>
+                  <a class="text-3xl font-medium hover:text-blueGray-500" href="#">Whatsapp</a>
                 </div>
                 
                 

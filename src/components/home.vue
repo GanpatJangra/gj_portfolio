@@ -87,9 +87,14 @@
             </div>
           </div>
         </section></div>
-    
+    <!-- <div class="flex justify-between"> -->
     <!-- skills section  -->
-    <h2 id="skills" class="mx-6 font-medium text-9xl md:text-10xl xl:text-11xl font-heading">Skills</h2>
+    <h2 id="skills" class="mx-6 font-medium text-9xl md:text-10xl xl:text-11xl font-heading">Skills 
+    <span  class=" font-medium text-sm font-heading text-blueGray-700">(MEVN)</span>
+
+    </h2>
+
+    <!-- </div> -->
     <skillsider/>
 
     <!-- // skills section end  -->
