@@ -19,9 +19,9 @@
         <swiper-slide>
 
                 <div class="w-full px-1 mb-4 xl:w-auto xl:mb-0 ">
-                  <div class="px-6 pt-10 pb-12 text-center bg-gray-50 rounded-7xl shadow-gray-300 shadow-sm mb-10">
+                  <div class="px-6 pt-10 pb-12 mb-10 text-center shadow-sm bg-gray-50 rounded-7xl shadow-gray-300">
                     <img class="w-20 h-20 mx-auto mb-5" src="/src/assets/images/team/placeholder-photo.png" alt=""><h4 class="mb-12 text-xl font-medium font-heading">Ainsley Stones</h4>
-                    <span class="p-2 text-sm font-bold text-gray-500 shadow-blueGray-900 shadow-inner uppercase bg-white rounded-full">Founder</span>
+                    <span class="p-2 text-sm font-bold text-gray-500 uppercase bg-white rounded-full shadow-inner shadow-blueGray-900">Founder</span>
                   </div>
                 </div>
         </swiper-slide>
@@ -29,9 +29,9 @@
         <swiper-slide>
 
                 <div class="relative w-full px-1 mb-4 xl:w-auto xl:mb-0">
-                  <div class="px-6 pt-10 pb-12 text-center bg-gray-50 rounded-7xl shadow-gray-300 shadow-sm">
+                  <div class="px-6 pt-10 pb-12 text-center shadow-sm bg-gray-50 rounded-7xl shadow-gray-300">
                     <img class="w-20 h-20 mx-auto mb-5" src="/src/assets/images/team/placeholder-photo.png" alt=""><h4 class="mb-12 text-xl font-medium font-heading">Faustina H. Fawn</h4>
-                    <span class="p-2 text-sm font-bold text-gray-500 shadow-blueGray-900 shadow-inner uppercase bg-white rounded-full">Manager</span>
+                    <span class="p-2 text-sm font-bold text-gray-500 uppercase bg-white rounded-full shadow-inner shadow-blueGray-900">Manager</span>
                   </div>
                 </div>
         </swiper-slide>
@@ -39,9 +39,9 @@
         <swiper-slide>
 
                 <div class="w-full px-1 mb-4 xl:w-auto xl:mb-0">
-                  <div class="px-6 pt-10 pb-12 text-center bg-gray-50 rounded-7xl shadow-gray-300 shadow-sm">
+                  <div class="px-6 pt-10 pb-12 text-center shadow-sm bg-gray-50 rounded-7xl shadow-gray-300">
                     <img class="w-20 h-20 mx-auto mb-5" src="/src/assets/images/team/placeholder-photo.png" alt=""><h4 class="mb-12 text-xl font-medium font-heading">Jasmine Joy</h4>
-                    <span class="p-2 text-sm font-bold text-gray-500 shadow-blueGray-900 shadow-inner uppercase bg-white rounded-full">Manager</span>
+                    <span class="p-2 text-sm font-bold text-gray-500 uppercase bg-white rounded-full shadow-inner shadow-blueGray-900">Manager</span>
                   </div>
                 </div>
             
@@ -75,7 +75,7 @@
                 <div class="flex items-start mb-10">
                   <img class="rotate-180" src="/src/assets/images/team/quote.png" alt="">
                   <div class="max-w-sm mx-auto text-justify -mt-9 ">
-                    <p class="text-2xl font-medium mx-2">Morbi ut nisl placerat, suscipit urna non, fringilla leo. Aenean mi libero, pretium eu convallis non, feugiat non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia!</p>
+                    <p class="mx-2 text-2xl font-medium">Morbi ut nisl placerat, suscipit urna non, fringilla leo. Aenean mi libero, pretium eu convallis non, feugiat non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia!</p>
                   </div>
                   <img src="/src/assets/images/team/quote.png" alt="">
                   </div>
@@ -85,7 +85,7 @@
                 <div class="flex items-start mb-10">
                   <img class="rotate-180" src="/src/assets/images/team/quote.png" alt="">
                   <div class="max-w-sm mx-auto text-justify -mt-9">
-                    <p class="text-2xl font-medium mx-2">Morbi ut nisl placerat, suscipit urna non, fringilla leo. Aenean mi libero, pretium eu convallis non, feugiat non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia!</p>
+                    <p class="mx-2 text-2xl font-medium">Morbi ut nisl placerat, suscipit urna non, fringilla leo. Aenean mi libero, pretium eu convallis non, feugiat non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia!</p>
                   </div>
                   <img src="/src/assets/images/team/quote.png" alt="">
                   </div>
@@ -95,7 +95,7 @@
                 <div class="flex items-start mb-10">
                   <img class="rotate-180" src="/src/assets/images/team/quote.png" alt="">
                   <div class="max-w-sm mx-auto text-justify -mt-9">
-                    <p class="text-2xl font-medium mx-2">Morbi ut nisl placerat, suscipit urna non, fringilla leo. Aenean mi libero, pretium eu convallis non, feugiat non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia!</p>
+                    <p class="mx-2 text-2xl font-medium">Morbi ut nisl placerat, suscipit urna non, fringilla leo. Aenean mi libero, pretium eu convallis non, feugiat non ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia!</p>
                   </div>
                   <img src="/src/assets/images/team/quote.png" alt="">
                   </div>

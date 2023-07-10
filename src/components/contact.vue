@@ -3,7 +3,7 @@
         <div class="container px-4 mx-auto">
           <div class="flex flex-wrap items-center -mx-4">
             <div class="w-full px-4 mb-20 lg:w-1/2 lg:mb-0">
-            <img class=" h-40 w-40 lg:h-96 lg:w-96  mx-auto relative " src="/src/assets/india.svg" alt="">
+            <img class="relative w-40 h-40 mx-auto lg:h-96 lg:w-96" src="/src/assets/india.svg" alt="">
  
               <!-- <img class="mx-auto rounded-tl-10xl rounded-br-10xl shadow-5xl shadow-purple-400" src="/src/assets/images/content/contact.png" alt=""> -->
             </div>
@@ -20,7 +20,7 @@
                   <a class="text-3xl font-medium hover:text-blueGray-500" href="#">Naveen87084@gmail.com</a>
                 </div>
  <div class="flex items-center w-full mb-6 xl:w-1/2">
-                  <img class="mr-6 duration-700 rounded-full  hover:animate-bounce h-14" src="/src/assets/images/mycollection/github-icon.svg" alt="">
+                  <img class="mr-6 duration-700 rounded-full hover:animate-bounce h-14" src="/src/assets/images/mycollection/github-icon.svg" alt="">
                   <a class="text-3xl font-medium hover:text-blueGray-500 shadow-blue-400" href="#">Git hub</a>
                 </div>
  <div class="flex items-center w-full mb-6 xl:w-1/2">

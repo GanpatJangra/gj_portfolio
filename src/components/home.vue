@@ -2,7 +2,7 @@
   <body class="antialiased bg-body text-body font-body">
     <div> 
      <!-- <test></test> -->
-     <navbar class="fixed"></navbar>
+     <navbar></navbar>
     
       <div>
         <div class="relative font-medium bg-opacity-50 font-heading bg-gray-50">
@@ -42,13 +42,13 @@
             </button>
           </div>
         </div>
-        <section id="home" class="pb-16 overflow-hidden 2xl:pb-20"><div class="relative shadow-gray-900 shadow-2xl bg-gray-100  rounded-b-10xl">
+        <section id="home" class="pb-16 overflow-hidden 2xl:pb-20"><div class="relative bg-gray-100 shadow-2xl shadow-gray-900 rounded-b-10xl">
             <div class="container px-4 mx-auto">
               <div class="flex flex-wrap items-center pt-1 pb-20 -mx-4">
                 <div class="w-full px-4 mb-24 lg:w-1/2 lg:mb-0">
                   <!-- <span class="block text-sm font-medium tracking-widest text-gray-300 uppercase mb-9">Better communication and work</span> -->
                   <h1  class="max-w-xl mb-16 font-medium leading-none font-heading text-9xl md:text-10xl xl:text-11xl">
-                    <span>Hi, it's me <span class="text-blueGray-700 underline">G</span>anpat <span class="text-blueGray-700 underline">J</span>angra and I am a </span>
+                    <span>Hi, it's me <span class="underline text-blueGray-700">G</span>anpat <span class="underline text-blueGray-700">J</span>angra and I am a </span>
                     <span class="relative inline-block">
                       <span class="absolute inset-0 xl:-left-8 xl:-right-8">
                         <img class="absolute inset-0 w-full max-w-non" src="/src/assets/elements/heroes/lines-blue1.svg" alt=""><img class="absolute inset-0 w-full mt-1 lg:mt-2 xl:ml-4 max-w-none" src="/src/assets/elements/heroes/lines-blue2.svg" alt="">
@@ -68,11 +68,11 @@
                     <!-- <svg class=" absolute rotate-180 h-8 w-60 left-[106px] top-20 text-black"  width="24" height="24" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <line x1="5" y1="12" x2="80" y2="12" />  <line x1="5" y1="12" x2="9" y2="16" />  <line x1="5" y1="12" x2="9" y2="8" /></svg> -->
                     <!-- <h1 class="absolute top-[82px] left-16">Front-End</h1> -->
                     <!-- profile image first circule  -->
-                    <div class="w-64 h-64 mx-auto border-4 border-gray-700  rounded-full ">
+                    <div class="w-64 h-64 mx-auto border-4 border-gray-700 rounded-full ">
                     <!-- profile image second circule  -->
                        <div class="w-56 h-56 mx-auto border-4 border-gray-400 rounded-full">
                     <!-- profile image third circule  -->
-                          <div class="relative w-48 h-48 mx-auto border-4 rounded-full flex items-center justify-center">
+                          <div class="relative flex items-center justify-center w-48 h-48 mx-auto border-4 rounded-full">
                        <!-- <svg class="mx-auto text-gray-800 h-28"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />  <circle cx="12" cy="7" r="4" /></svg> -->
                        <dotlottie-player class="w-[21rem] pb-6 " src="https://assets2.lottiefiles.com/dotlotties/dlf10_sxoye5rr.lottie"  background="transparent"  speed="2"      autoplay></dotlottie-player>
                      
@@ -90,7 +90,7 @@
     <!-- <div class="flex justify-between"> -->
     <!-- skills section  -->
     <h2 id="skills" class="mx-6 font-medium text-9xl md:text-10xl xl:text-11xl font-heading">Skills 
-    <span  class=" font-medium text-sm font-heading text-blueGray-700">(MEVN)</span>
+    <span  class="text-sm font-medium font-heading text-blueGray-700">(MEVN)</span>
 
     </h2>
 

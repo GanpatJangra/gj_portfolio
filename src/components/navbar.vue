@@ -3,9 +3,9 @@
         <nav class="flex justify-between px-6 lg:px-12">
           <div class=" mx-auto">
          
-<lottie-player class="w-28 animate-slide-left " src="https://assets8.lottiefiles.com/packages/lf20_dUbSb3.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player>
+                    
+<lottie-player class="w-28" src="https://assets8.lottiefiles.com/packages/lf20_dUbSb3.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player>
               <!-- <img class=" w-14 p-2 animate-slide-left border-2 rounded-full  " src="/src/assets/dog.png" alt="dog"> -->
-                      
           </div>
           <button @click="hidden=!hidden" class="self-center xl:hidden text-body focus:outline-none active:border-2 border-yellow-600 px-3 py-3 rounded-md">
             <svg width="25" height="16" viewbox="0 0 25 16" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="25" height="2" fill="currentColor"></rect><rect y="14" width="25" height="2" fill="currentColor"></rect></svg>
@@ -78,9 +78,7 @@ export default {
 
 data(){
    return{
-        hidden:true,
-     
-      
+        hidden:true,   
     }
   },
 }
